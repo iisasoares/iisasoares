@@ -2,7 +2,7 @@
 
 Meu nome é Isabelli Soares Pelegrin 
 
-- Estou estudando na Alura
+- Estou na Alura
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
